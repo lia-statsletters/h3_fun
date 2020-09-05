@@ -18,3 +18,4 @@ dependencies:
   - pydeck
   - googlemaps
   - h3
+  - overpass
