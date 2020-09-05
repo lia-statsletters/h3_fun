@@ -1,0 +1,20 @@
+name : h3_fun-py38
+channels:
+- conda-forge
+dependencies:
+- pip
+- numpy
+- pandas 
+- seaborn
+- matplotlib
+- scikit-learn
+- descartes
+- pip:
+  - geopandas
+  - fiona
+  - shapely
+  - pygeos
+  - geopy
+  - pydeck
+  - googlemaps
+  - h3
